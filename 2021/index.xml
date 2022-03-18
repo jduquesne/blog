@@ -288,8 +288,8 @@
 &lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Cher lect.eur/rice, sauras-tu le retrouver dans la vidéo ci-dessous?&lt;/em&gt;&lt;/p&gt;
 
-&lt;div class = &#39;video&#39;&gt;
-  &lt;iframe src=&#39;https://www.youtube.com/embed/jj1QfT7VtL8?controls=1&amp;rel=0&#39;&gt;&lt;/iframe&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/jj1QfT7VtL8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 &lt;p&gt;&lt;em&gt;(Vidéo à voir sur &lt;a href=&#34;https://www.youtube.com/watch?v=jj1QfT7VtL8&#34;&gt;Youtube&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;
