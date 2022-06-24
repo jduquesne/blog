@@ -1,38 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Carnets de notes</title>
-    <link>https://jduquesne.com/categories/</link>
-    <description>Recent content in Categories on Carnets de notes</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fr</language>
-    <lastBuildDate>Fri, 24 Jun 2022 14:22:16 +0800</lastBuildDate><atom:link href="https://jduquesne.com/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Inspiration</title>
-      <link>https://jduquesne.com/categories/inspiration/</link>
-      <pubDate>Fri, 24 Jun 2022 14:22:16 +0800</pubDate>
-      
-      <guid>https://jduquesne.com/categories/inspiration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pantoun</title>
-      <link>https://jduquesne.com/categories/pantoun/</link>
-      <pubDate>Fri, 24 Jun 2022 14:22:16 +0800</pubDate>
-      
-      <guid>https://jduquesne.com/categories/pantoun/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Singapour</title>
-      <link>https://jduquesne.com/categories/singapour/</link>
-      <pubDate>Fri, 24 Jun 2022 14:22:16 +0800</pubDate>
-      
-      <guid>https://jduquesne.com/categories/singapour/</guid>
-      <description></description>
-    </item>
-    
+    <title>Categories on Duquesn(e)</title>
+    <link>https://duquesn.com/categories/</link>
+    <description>Recent content in Categories on Duquesn(e)</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://duquesn.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
