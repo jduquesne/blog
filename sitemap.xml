@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://duquesn.com/</loc>
-    <lastmod>2023-04-02T10:02:52+08:00</lastmod>
+    <loc>https://duquesn.com/2023/avril-2023/</loc>
+    <lastmod>2023-05-01T09:09:42+08:00</lastmod>
   </url><url>
-    <loc>https://duquesn.com/2023/mars-2023/</loc>
-    <lastmod>2023-04-02T10:02:52+08:00</lastmod>
+    <loc>https://duquesn.com/</loc>
+    <lastmod>2023-05-01T09:09:42+08:00</lastmod>
   </url><url>
     <loc>https://duquesn.com/post/</loc>
+    <lastmod>2023-05-01T09:09:42+08:00</lastmod>
+  </url><url>
+    <loc>https://duquesn.com/2023/mars-2023/</loc>
     <lastmod>2023-04-02T10:02:52+08:00</lastmod>
   </url><url>
     <loc>https://duquesn.com/2023/fevrier-2023/</loc>
