@@ -229,9 +229,12 @@
       <guid>https://duquesn.com/2018/tomtom-fait-son-show/</guid>
       <description>&lt;p&gt;Tomtom a fini sa première année de scolarité en beauté. Un joli spectacle, où il nous a confirmé qu&amp;rsquo;il s&amp;rsquo;épanouit à l&amp;rsquo;école. Son plaisir et son énergie sur la scène étaient contagieux. Un vrai délice de le voir si heureux de performer.&lt;/p&gt;
 
- &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-   &lt;iframe src=&#34;https://www.youtube.com/embed/9OmQpjxb0v8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
+ 
+     
+     &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/9OmQpjxb0v8?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+       &gt;&lt;/iframe&gt;
+     &lt;/div&gt;
 
 &lt;p&gt;&lt;em&gt;(Vidéo à voir sur &lt;a href=&#34;https://www.youtube.com/watch?v=9OmQpjxb0v8&#34;&gt;Youtube&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;
 </description>
@@ -308,9 +311,12 @@
       <guid>https://duquesn.com/2018/plouf/</guid>
       <description>&lt;p&gt;Rien de tel qu&amp;rsquo;un petit plongeon en fin d&amp;rsquo;après-midi pour se relaxer après une longue et studieuse journée - et finir de fatiguer nos garnements pour une soirée plus calme&amp;hellip;.&lt;/p&gt;
 
- &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-   &lt;iframe src=&#34;https://www.youtube.com/embed/VxM1DdlfdP8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
+ 
+     
+     &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/VxM1DdlfdP8?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+       &gt;&lt;/iframe&gt;
+     &lt;/div&gt;
 
 &lt;p&gt;&lt;em&gt;(Vidéo à voir sur &lt;a href=&#34;https://www.youtube.com/watch?v=VxM1DdlfdP8&#34;&gt;Youtube&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;
 </description>
